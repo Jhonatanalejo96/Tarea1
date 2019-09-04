@@ -1,0 +1,346 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.4)  4 SEP 2019 11:16
+entering extended mode
+**./Documento.tex
+(Documento.tex
+LaTeX2e <2018-12-01>
+(IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count80
+\@IEEEtrantmpcountB=\count81
+\@IEEEtrantmpcountC=\count82
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1
+ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@IEEEsubequation=\count87
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count88
+\c@table=\count89
+\@IEEEeqnnumcols=\count90
+\@IEEEeqncolcnt=\count91
+\@IEEEsubeqnnumrollback=\count92
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count93
+\@IEEEquantizeboxA=\box27
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count94
+\@IEEEtranrubishbin=\box28
+) (Packages.tex
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\input
+enc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\latin
+1.def"
+File: latin1.def 2018/08/11 v1.3c Input encoding file
+))
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/algorithms
+\algorithmic.sty"
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthe
+n.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\k
+eyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\c@ALC@unique=\count95
+\c@ALC@line=\count96
+\c@ALC@rem=\count97
+\c@ALC@depth=\count98
+\ALC@tlm=\skip44
+\algorithmicindent=\skip45
+))
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\g
+raphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\g
+raphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\t
+rig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-c
+fg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-d
+ef\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+) (Documento.aux
+
+LaTeX Warning: Label `eq:cuadratica' multiply defined.
+
+)
+\openout1 = `Documento.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+-- Lines per column: 56 (exact).
+
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mki
+i\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count99
+\scratchdimen=\dimen128
+\scratchbox=\box29
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count102
+\MPscratchDim=\dimen129
+\MPnumerator=\count103
+\makeMPintoPDFobject=\count104
+\everyMPtoPDFconversion=\toks19
+)
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\e
+pstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\g
+rfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\k
+voptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\pdftexcmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Piza.Jhonatan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) (Titulo.tex)
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <11> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.69997> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.5> on input line 9.
+ (Resumen.tex) (Introduccion.tex) (MarcoTeorico.tex) (Resultados.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+
+ []
+
+<Figuras/a.pdf, id=1, 309.19516pt x 314.37451pt>
+File: Figuras/a.pdf Graphic file (type pdf)
+<use Figuras/a.pdf>
+Package pdftex.def Info: Figuras/a.pdf  used on input line 13.
+(pdftex.def)             Requested size: 199.16928pt x 202.50856pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 18.
+<Figuras/LogoECCI.jpg, id=2, 3486.27469pt x 1143.52219pt>
+File: Figuras/LogoECCI.jpg Graphic file (type jpg)
+<use Figuras/LogoECCI.jpg>
+Package pdftex.def Info: Figuras/LogoECCI.jpg  used on input line 27.
+(pdftex.def)             Requested size: 85.35826pt x 27.98775pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 37.
+) (Analisis.tex) (Conclusiones.tex [1{C:/Users/Piza.Jhonatan/AppData/Local/MiKT
+eX/2.9/pdftex/config/pdftex.map}
+
+
+ <./Figuras/a.pdf> <./Figuras/LogoECCI.jpg>])
+(Documento.bbl)
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[2
+
+] (Documento.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2538 strings out of 492895
+ 43695 string characters out of 3120000
+ 115185 words of memory out of 3000000
+ 6410 multiletter control sequences out of 15000+200000
+ 41298 words of font info for 77 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,10n,25p,278b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Piza.Jhonatan/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/bas
+e/8r.enc}<C:/Users/Piza.Jhonatan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmmi10.pfb><C:/Users/Piza.Jhonatan/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Piza.Jhonatan/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users
+/Piza.Jhonatan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><C:/Users/Piza.Jhonatan/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr7.pfb><C:/Users/Piza.Jhonatan/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Piza.Jhonatan/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Piza.J
+honatan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:
+/Users/Piza.Jhonatan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/ut
+mr8a.pfb><C:/Users/Piza.Jhonatan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+urw/times/utmri8a.pfb>
+Output written on Documento.pdf (2 pages, 258893 bytes).
+PDF statistics:
+ 56 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
