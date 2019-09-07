@@ -1,9 +1,34 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.4)  7 SEP 2019 08:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.7)  7 SEP 2019 09:17
 entering extended mode
 **./Titulo.tex
 (Titulo.tex
 LaTeX2e <2018-12-01>
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \title{TAREA 1}\\\label
+                           {sec:titulo}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 )
+Runaway argument?
+{\IEEEauthorblockN {1\textsuperscript {st} Jhonatan Alejandro Piza Sa\ETC.
+! File ended while scanning use of \author.
+<inserted text> 
+                \par 
+<*> ./Titulo.tex
+                
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
 ! Emergency stop.
 <*> ./Titulo.tex
                 
@@ -13,9 +38,9 @@ LaTeX2e <2018-12-01>
 Here is how much of TeX's memory you used:
  9 strings out of 492895
  302 string characters out of 3120000
- 57975 words of memory out of 3000000
+ 57029 words of memory out of 3000000
  4025 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 5i,0n,4p,92b,11s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 6i,0n,5p,96b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!

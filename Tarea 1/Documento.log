@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.4)  4 SEP 2019 11:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.7)  7 SEP 2019 09:17
 entering extended mode
 **./Documento.tex
 (Documento.tex
@@ -261,15 +261,43 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-) (Titulo.tex)
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 9.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11> on input line 9.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.69997> on input line 9.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.5> on input line 9.
- (Resumen.tex) (Introduccion.tex) (MarcoTeorico.tex) (Resultados.tex
+) (Titulo.tex
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \title{TAREA 1}\\\label
+                           {sec:titulo}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+Runaway argument?
+{\IEEEauthorblockN {1\textsuperscript {st} Jhonatan Alejandro Piza Sa\ETC.
+! File ended while scanning use of \author.
+<inserted text> 
+                \par 
+l.7 \input{Titulo}
+                  
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+
+LaTeX Warning: No \author given.
+
+
+LaTeX Warning: No \author given.
+
+
+LaTeX Warning: No \author given.
+
+(Resumen.tex) (Introduccion.tex) (MarcoTeorico.tex) (Resultados.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
@@ -292,12 +320,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 37.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 37.
-) (Analisis.tex) (Conclusiones.tex [1{C:/Users/Piza.Jhonatan/AppData/Local/MiKT
-eX/2.9/pdftex/config/pdftex.map}
-
-
- <./Figuras/a.pdf> <./Figuras/LogoECCI.jpg>])
-(Documento.bbl)
+) (Analisis.tex) (Conclusiones.tex) (Documento.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -309,21 +332,22 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[2
+[1{C:/Users/Piza.Jhonatan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-] (Documento.aux)
+
+ <./Figuras/a.pdf> <./Figuras/LogoECCI.jpg>] (Documento.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2538 strings out of 492895
- 43695 string characters out of 3120000
+ 2519 strings out of 492895
+ 43406 string characters out of 3120000
  115185 words of memory out of 3000000
- 6410 multiletter control sequences out of 15000+200000
- 41298 words of font info for 77 fonts, out of 3000000 for 9000
+ 6393 multiletter control sequences out of 15000+200000
+ 37719 words of font info for 71 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,10n,25p,278b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,7n,25p,278b,230s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Piza.Jhonatan/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/bas
 e/8r.enc}<C:/Users/Piza.Jhonatan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmmi10.pfb><C:/Users/Piza.Jhonatan/AppData/Local/Programs/Mi
@@ -338,9 +362,9 @@ honatan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:
 /Users/Piza.Jhonatan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/ut
 mr8a.pfb><C:/Users/Piza.Jhonatan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on Documento.pdf (2 pages, 258893 bytes).
+Output written on Documento.pdf (1 page, 256699 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
+ 53 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
