@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.7)  7 SEP 2019 12:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.11)  11 SEP 2019 09:16
 entering extended mode
 **./Titulo.tex
 (Titulo.tex
@@ -37,7 +37,7 @@ you'd better type `E' or `X' now and fix your file.
  
 Here is how much of TeX's memory you used:
  9 strings out of 492895
- 302 string characters out of 3120000
+ 336 string characters out of 3119999
  57029 words of memory out of 3000000
  4025 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
